@@ -1,0 +1,47 @@
+Admin Routes:
+1.Add Admin (POST):
+/admin/addAdmin
+2.View Admin (GET):
+/admin/viewAdmin
+3.Admin Login (POST):
+/admin/adminLogin
+4.Change Password (POST):
+/admin/changePass
+5.Forgot Password (POST):
+/admin/forgetPass
+6.Manager Registration (POST):
+/admin/managerRegistration
+7.View Manager (GET):
+/admin/viewManager
+8.Delete Manager (DELETE):
+/admin/deleteManager
+9.View All Data (GET):
+/admin/viewAllData
+
+
+
+Manager Routes:
+10.Manager Login (POST):
+/manager/managerLogin
+11.View Manager (GET):
+/manager/viewManager
+12.Manager Forgot Password (POST):
+/manager/managerForgetPass
+13.Manager Change Password (POST):
+/manager/managerChangePass
+14.Employee Registration (POST):
+/manager/employeRegistration
+15.View Employee (GET):
+/manager/viewEmploye
+16.Delete Employee (DELETE):
+/manager/deleteEmploye
+
+
+
+Employee Routes:
+17.Employee Login (POST):
+/employee/employeLogin
+18.Employee Forgot Password (POST):
+/employee/employeForgetPass
+19.Employee Change Password (POST):
+/emOployee/employeChangePass
